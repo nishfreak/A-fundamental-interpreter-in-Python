@@ -1,0 +1,6 @@
+a := 4;
+b := 6;
+while a > 0 do
+  b := b * a;
+  a := a - 1
+end
